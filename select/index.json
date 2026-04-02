@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Ready to Run",
+  "base_artist": "One Direction",
+  "createdAt": "2026-04-02T00:14:00.067152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ready to Run",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/01_Ready_to_Run_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ready to Run",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_Ready_to_Run_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ready To Run",
+      "artist": "Dixie Chicks",
+      "has_synced": true,
+      "path": "select/03_Ready_To_Run_Dixie_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ready to run",
+      "artist": "Dixie Chicks",
+      "has_synced": true,
+      "path": "select/04_Ready_to_run_Dixie_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ready To Run",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/05_Ready_To_Run_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ready To Run",
+      "artist": "NNAMDÏ",
+      "has_synced": true,
+      "path": "select/06_Ready_To_Run_NNAMDÏ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ready to Run",
+      "artist": "Adam Lambert",
+      "has_synced": true,
+      "path": "select/07_Ready_to_Run_Adam_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ready to Run",
+      "artist": "First Aid Kit",
+      "has_synced": true,
+      "path": "select/08_Ready_to_Run_First_Aid_Kit.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get Ready to Run (Live)",
+      "artist": "Birth Control",
+      "has_synced": false,
+      "path": "select/09_Get_Ready_to_Run_(Live)_Birth_Control.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(dixie_chicks)-ready_to_run",
+      "artist": "artist",
+      "has_synced": true,
+      "path": "select/10_(dixie_chicks)-ready_to_run_artist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ready to Run",
+      "artist": "Dixie Chicks",
+      "has_synced": true,
+      "path": "select/11_Ready_to_Run_Dixie_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ready To Run (Live)",
+      "artist": "Adam Lambert",
+      "has_synced": false,
+      "path": "select/12_Ready_To_Run_(Live)_Adam_Lambert.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ready to Run",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/13_Ready_to_Run_The_Chicks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ready To Run",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Ready_To_Run_One_Direction.txt"
+    }
+  ]
+}
